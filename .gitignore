@@ -1,0 +1,14 @@
+# データファイル（Yahoo Financeデータの再配布防止）
+streamlit_app/data/*.parquet
+streamlit_app/data/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
