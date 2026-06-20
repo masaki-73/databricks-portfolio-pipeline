@@ -9,7 +9,7 @@
 
 ## Why this project
 
-SASでのETL・データ基盤構築を約10年経験してきた。  
+SASでのETL・データ基盤構築を約8年経験してきた。  
 Databricks Data Engineer Associate資格取得後、実務レベルの設計・実装力を証明するために本プロジェクトを立ち上げた。
 
 **証明したいこと：**
