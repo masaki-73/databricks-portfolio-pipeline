@@ -7,7 +7,7 @@
 
 ## DLTとは
 
-Delta Live Tablesは、Databricksが提供するデータパイプラインの宣言的フレームワークだ。
+Delta Live Tablesは、Databricksが提供するデータパイプラインの宣言的フレームワーク。
 
 **現在の実装（Notebook手動パイプライン）との違い：**
 
