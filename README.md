@@ -245,7 +245,7 @@ databricks-portfolio-pipeline/
 
 ```bash
 # 1. リポジトリをクローン
-git clone https://github.com/your-username/databricks-portfolio-pipeline.git
+git clone https://github.com/masaki-73/databricks-portfolio-pipeline.git
 
 # 2. Databricks Community Editionにノートブックをインポート
 #    Workspace > New > Notebook > File > Import
